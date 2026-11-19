@@ -3,7 +3,7 @@
 **Student:** VIJAYALAKSHMI S
 **Register Number:** 192472326
 **Course Outcome:** CO1  
-**GitHub:** https://github.com/viji243/JAVA-CSA0905.git
+**GitHub:**  https://github.com/viji243/JAVA-CSA0905.git
 
 ## Aim
 To complete the tasks in the official CO1 assignment PDF and demonstrate java fundamentals and object-oriented programming through design, implementation, testing and evaluation.
