@@ -1,8 +1,11 @@
 # Assignment 2 Report – Strings and the Collection Framework
 
 **Student:** VIJAYALAKSHMI S
+
 **Register Number:** 192472326
-**Course Outcome:** CO2  
+
+**Course Outcome:** CO2 
+
 **GitHub:** https://github.com/viji243/JAVA-CSA0905.git
 
 ## Aim
