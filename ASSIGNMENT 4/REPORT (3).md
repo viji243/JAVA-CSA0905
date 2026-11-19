@@ -1,9 +1,12 @@
 # Assignment 4 Report – Event-Driven GUI Design
 
-**Student:** Mahima Prabhakaran  
-**Register Number:** 192521280  
+**Student:** VIJAYALAKSHMI S 
+
+**Register Number:** 192472326
+
 **Course Outcome:** CO4  
-**GitHub:** https://github.com/Mahima-07m/JAVA-CSA0918
+
+**GitHub:** https://github.com/viji243/JAVA-CSA0905.git
 
 ## Aim
 To complete the tasks in the official CO4 assignment PDF and demonstrate awt/swing, event delegation, listeners, layouts, dialogs and gui-jdbc integration through design, implementation, testing and evaluation.
